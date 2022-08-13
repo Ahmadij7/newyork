@@ -1,2 +1,2 @@
 # newyork
-NFY
+NFTs
